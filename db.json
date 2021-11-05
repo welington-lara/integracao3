@@ -1,10 +1,10 @@
 {
  "os_detalhes" : [
   {
-    "numeroOs": 0,
+    "numeroOs": 175957,
     "os": {
       "idOs": 0,
-      "tipoOs": "string",
+      "tipoOs": "Funilaria(Seguradora)",
       "reclamacao": [
         {
           "descricao": "string",
@@ -17,16 +17,16 @@
               "tempoPadrao": 0,
               "produtos": [
                 {
-                  "codProduto": 0,
-                  "descricao": "string",
+                  "codProduto": 93354051,
+                  "descricao": "APARELHO ELETRICO (C	",
                   "codFornecedor": 0,
                   "nomeFornecedor": "string",
                   "unidade": "string",
-                  "precoPublico": 0,
+                  "precoPublico": 299.13,
                   "precoGarantia": 0,
-                  "precoCusto": 0,
-                  "precoCustoReposicao": 0,
-                  "quantidade": 0
+                  "precoCusto": 50,
+                  "precoCustoReposicao": 48,
+                  "quantidade": 10
                 }
               ]
             }
