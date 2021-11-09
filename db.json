@@ -35,5 +35,22 @@
       ]
     }
   }
-]
+],
+  "cliente" : [
+ {
+  "nomeCliente": "string",
+  "dddTelefoneCliente": 0,
+  "numeroTelefoneCliente": 0,
+  "dddCelularCliente": 0,
+  "numeroCelularCliente": 0,
+  "tipoPessoa": "F",
+  "cpfCnpjCliente": 0,
+  "emailCliente": "string",
+  "enderecoCliente": "string",
+  "complementoEnderecoCliente": "string",
+  "bairroCliente": "string",
+  "cepCliente": 0,
+  "municipioCliente": "string",
+  "ufCliente": "string"
+}]
 }
