@@ -52,5 +52,13 @@
   "cepCliente": 0,
   "municipioCliente": "string",
   "ufCliente": "string"
-}]
+}],
+ "modelo" : [
+  {
+    "DesModelo": "string",
+    "CodFamilia": 0,
+    "AnoFabricacaoVeiculo": 0,
+    "AnoModeloVeiculo": 0
+  }
+]
 }
